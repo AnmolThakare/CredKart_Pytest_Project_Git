@@ -1,0 +1,1 @@
+pytest -v --html=HTMLReports/myreport.html --alluredir="AllureReports" -n=2 testCases\test_Login.py --browser firefox

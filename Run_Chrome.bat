@@ -1,0 +1,1 @@
+pytest -v --html=HTMLReports/myreport.html --alluredir="G:\pythonProject\CredKart_Pytest_Project\allure-results" -n=2 testCases\test_Login.py --browser chrome
